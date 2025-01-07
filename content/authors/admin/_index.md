@@ -88,7 +88,7 @@ skills:
       - name: Botany
         description: ''
         percent: 80
-        icon: leaf
+        icon: cat
 
 languages:
   - name: English
