@@ -41,8 +41,8 @@ interests:
 education:
   - area: PhD Computational Soft Matter Physics
     institution: University of Birmingham
-    date_start: September 2021
-    date_end: Present
+    # date_start: September 2021
+    # date_end: Present
     summary: |
       Designing self-assembly routes to colloidal open crystals. Investigating the multifunctional behaviour of these assembled crystals. 
     button:
@@ -50,8 +50,8 @@ education:
       url: 'https://example.com'
   - area: MChem Chemistry
     institution: University of Oxford
-    date_start: 2017
-    date_end: 2021
+    # date_start: 2017
+    # date_end: 2021
     summary: |
       Part II research project in the Oxford Colloids Group - Investigating the free energy of loop-shaped grain boundaries in 2D hard colloidal crystals. 
       Supervisors: Prof. Roel Dullens, Dr. Berend van der Meer. 
