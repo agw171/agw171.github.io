@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:walker.agw@outlook.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/adam-g-walker/
 
 interests:
   - Self-Assembly
@@ -41,9 +41,6 @@ education:
     # date_end: Present
     summary: |
       Designing self-assembly routes to colloidal open crystals. Investigating the multifunctional behaviour of these assembled crystals. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MChem Chemistry
     institution: University of Oxford
     # date_start: 2017
@@ -65,10 +62,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -77,20 +71,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Botany
-        description: ''
-        percent: 80
-        icon: cat
 
 languages:
   - name: English
-    percent: 100
   - name: Welsh
-    percent: 40
 
 ---
 
