@@ -38,6 +38,8 @@ sections:
 
     design:
       columns: '1'
+
+
   - block: collection
     id: posts
     content:
@@ -59,14 +61,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: notes
-    id: notes
-    content:
-      title: Notes
-      filters:
-        folders:
-          - notes
-    design:
-      view: article-grid
-      columns: 1
+  # - block: notes
+  #   id: notes
+  #   content:
+  #     title: Notes
+  #     filters:
+  #       folders:
+  #         - notes
+  #   design:
+  #     view: article-grid
+  #     columns: 1
 ---
