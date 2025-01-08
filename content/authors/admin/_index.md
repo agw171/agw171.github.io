@@ -17,8 +17,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CDT Topological Design, University of Birmingham
-    # url: https://openai.com/
+  - name: CDT in Topological Design, University of Birmingham
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -28,6 +27,9 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/adam-g-walker/
+    label: My LinkedIn
+  - icon: brands/github
+    url: https://github.com/agw171
 
 interests:
   - Self-Assembly
@@ -37,14 +39,14 @@ interests:
 education:
   - area: PhD Computational Soft Matter Physics
     institution: University of Birmingham
-    # date_start: September 2021
-    # date_end: Present
+    date_start: 2021
+    date_end: 2025
     summary: |
       Designing self-assembly routes to colloidal open crystals. Investigating the multifunctional behaviour of these assembled crystals. 
   - area: MChem Chemistry
     institution: University of Oxford
-    # date_start: 2017
-    # date_end: 2021
+    date_start: 2017
+    date_end: 2021
     summary: |
       Part II research project in the Oxford Colloids Group - Investigating the free energy of loop-shaped grain boundaries in 2D hard colloidal crystals. 
       Supervisors: Prof. Roel Dullens, Dr. Berend van der Meer. 
